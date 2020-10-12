@@ -2,7 +2,7 @@
     display: flex;
 }
 .carousel-inner{
-        background-image: url("assets/logo.png") ;
+        background-image: url("https://dhmariano.github.io/-Mariano_WebDev_Finals/exam/assets/logo.png") ;
         background-size: 100%;
         background-repeat: no-repeat;
 
