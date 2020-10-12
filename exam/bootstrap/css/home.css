@@ -1,3 +1,9 @@
 .navs{
     display: flex;
 }
+.back-img{
+    background-image: url("assets/logo.png") ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
