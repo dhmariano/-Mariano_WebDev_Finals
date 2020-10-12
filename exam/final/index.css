@@ -1,0 +1,13 @@
+.navs{
+    display: flex;
+    
+}
+.carousel-inner{
+        background-image: url("./logo.png") ;
+        background-size: 100%;
+        background-repeat: no-repeat;
+
+}
+
+
+
